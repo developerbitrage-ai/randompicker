@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "name": "Potnuru Ravisankar",
+    "location": "PADERU",
+    "eligible": false
+  },
+  {
+    "id": 2,
+    "name": "Pydisetti Venkata Saikumar",
+    "location": "NARASANNAPETA",
+    "eligible": false
+  },
+  {
+    "id": 3,
+    "name": "Rajesh Chauhan",
+    "location": "GURUGRAM",
+    "eligible": false
+  },
+  {
+    "id": 4,
+    "name": "Rayi Manikyam",
+    "location": "DHARMAVARAM",
+    "eligible": false
+  },
+  {
+    "id": 5,
+    "name": "Doddipatla Rajesh",
+    "location": "GOLLAPROLU",
+    "eligible": false
+  },
+  {
+    "id": 6,
+    "name": "Killu Venkata Ramesh Naidu",
+    "location": "PADERU",
+    "eligible": false
+  },
+  {
+    "id": 7,
+    "name": "Nallamilli Gangireddy",
+    "location": "PASALAPUDI",
+    "eligible": false
+  },
+  {
+    "id": 8,
+    "name": "Puttana UpendraReddy",
+    "location": "RAILWAY KODURU",
+    "eligible": false
+  },
+  {
+    "id": 10,
+    "name": "Lanka Somashekar",
+    "location": "RAJAHMUNDRY",
+    "eligible": false
+  },
+  {
+    "id": 11,
+    "name": "MVS Santosh kumar",
+    "location": "VIZAG",
+    "eligible": false
+  },
+  {
+    "id": 12,
+    "name": "Saramanda Satishkumar",
+    "location": "PADERU",
+    "eligible": false
+  },
+  {
+    "id": 13,
+    "name": "Manoj",
+    "location": "GURUGRAM",
+    "eligible": false
+  },
+  {
+    "id": 14,
+    "name": "Poonam",
+    "location": "GURUGRAM",
+    "eligible": false
+  },
+  {
+    "id": 15,
+    "name": "Ajay",
+    "location": "GURUGRAM",
+    "eligible": false
+  },
+  {
+    "id": 16,
+    "name": "Sunitha",
+    "location": "JAIPUR",
+    "eligible": true
+  },
+  {
+    "id": 17,
+    "name": "Harsh",
+    "location": "GURUGRAM",
+    "eligible": false
+  },
+  {
+    "id": 18,
+    "name": "Neeraj",
+    "location": "GURUGRAM",
+    "eligible": false
+  },
+  {
+    "id": 19,
+    "name": "MANI",
+    "location": "VIZAG",
+    "eligible": false
+  },
+  {
+    "id": 20,
+    "name": "Datla Annapurna Devi",
+    "location": "BANGALORE",
+    "eligible": false
+  }
+]
